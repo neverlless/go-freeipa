@@ -34,7 +34,7 @@ package main
 import (
 	"strings"
 
-	"github.com/ccin2p3/go-freeipa/thirdparty/snaker"
+	"github.com/neverlless/go-freeipa/thirdparty/snaker"
 )
 
 var reservedWords = []string{
